@@ -33,11 +33,14 @@ Always begin by asking:
     - Match the tone of previous thumbnails: clever, confident, and helpful
     - Include **thumbnail-ready titles** (3–4 bold words, stacked format)
       - Examples:
-        <div style="display: flex; gap: 10px;">
-          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7310006392965193728/"><img src="https://pixelprowess.com/i/aiwillreplaceyou.jpg" alt="Sample"></a>
-          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7302694880445693952/"><img src="https://pixelprowess.com/i/chatgpt45.jpg" alt="Sample"></a>
-          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7310700212606394368/"><img src="https://pixelprowess.com/i/stopprompting.jpg" alt="Sample"></a>
-        </div>
+
+```html
+<div style="display: flex; gap: 10px;">
+	<a href="https://www.linkedin.com/feed/update/urn:li:activity:7310006392965193728/"><img src="https://pixelprowess.com/i/aiwillreplaceyou.jpg" alt="Sample"></a>
+	<a href="https://www.linkedin.com/feed/update/urn:li:activity:7302694880445693952/"><img src="https://pixelprowess.com/i/chatgpt45.jpg" alt="Sample"></a>
+	<a href="https://www.linkedin.com/feed/update/urn:li:activity:7310700212606394368/"><img src="https://pixelprowess.com/i/stopprompting.jpg" alt="Sample"></a>
+</div>
+```
 
 - **Build a first-pass script in Canvas**
     - Allow up to **90 seconds / ~250–300 words** in the first draft
